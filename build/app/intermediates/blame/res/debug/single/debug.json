@@ -196,6 +196,10 @@
         "source": "C:\\Users\\Elctrony\\.gradle\\caches\\transforms-2\\files-2.1\\dd0d4e2ba30d418cab9beeb46f804abd\\play-services-base-17.1.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
+        "merged": "M:\\developing\\pharmacy\\build\\app\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "M:\\developing\\pharmacy\\android\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
         "merged": "M:\\developing\\pharmacy\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\Elctrony\\.gradle\\caches\\transforms-2\\files-2.1\\dd0d4e2ba30d418cab9beeb46f804abd\\play-services-base-17.1.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },

@@ -51,10 +51,10 @@
 34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 34-->[androidx.core:core:1.1.0] C:\Users\Elctrony\.gradle\caches\transforms-2\files-2.1\f0629e1b0ed9e8f6cd038f03175d0f14\core-1.1.0\AndroidManifest.xml:24:18-86
 35        android:debuggable="true"
-36        android:icon="@mipmap/ic_launcher"
-36-->M:\developing\pharmacy\android\app\src\main\AndroidManifest.xml:11:9-43
-37        android:label="pharmacy" >
-37-->M:\developing\pharmacy\android\app\src\main\AndroidManifest.xml:10:9-33
+36        android:icon="@drawable/logo"
+36-->M:\developing\pharmacy\android\app\src\main\AndroidManifest.xml:11:9-38
+37        android:label="My Pharmacy" >
+37-->M:\developing\pharmacy\android\app\src\main\AndroidManifest.xml:10:9-36
 38        <meta-data
 38-->M:\developing\pharmacy\android\app\src\main\AndroidManifest.xml:13:9-14:73
 39            android:name="com.google.android.geo.API_KEY"

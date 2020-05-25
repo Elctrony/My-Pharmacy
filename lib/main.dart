@@ -65,7 +65,6 @@ class _GoogleScreenState extends State<GoogleScreen> {
   );
 
   LocationData _locationData;
-  String _locationName;
   TextEditingController _phoneController;
   String _phoneNumber = '';
 
@@ -218,7 +217,6 @@ class _GoogleScreenState extends State<GoogleScreen> {
         await Geocoder.local.findAddressesFromCoordinates(coordinates);
 
     setState(() {
-      _locationName = _locationNameData.first.addressLine;
     });
   }
 

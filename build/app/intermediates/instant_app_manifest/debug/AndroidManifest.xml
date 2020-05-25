@@ -34,8 +34,8 @@
         android:name="io.flutter.app.FlutterApplication"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="pharmacy" >
+        android:icon="@drawable/logo"
+        android:label="My Pharmacy" >
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyCUiVR99K3XydJSK391l3paxkMH4RHxQJ8" />
